@@ -1,0 +1,54 @@
+{
+ "castanets_attack_frame": {
+  "frame": 203,
+  "centre_s": 4.330666666666667,
+  "baseline_bits": 1773,
+  "improved_bits": 3375,
+  "g_baseline": 0.7084594666957855,
+  "g_improved": 9.980376586318016,
+  "factor_db": [
+   -12.2,
+   -26.3,
+   -26.7,
+   -22.4,
+   -27.9,
+   -32.7,
+   -35.0,
+   -35.0,
+   -35.0,
+   -35.0
+  ],
+  "attack_s": 4.335
+ },
+ "harpsichord_sustained_frame": {
+  "frame": 161,
+  "centre_s": 3.4346666666666668,
+  "baseline_bits": 1359,
+  "improved_bits": 1361,
+  "g_baseline": -0.43438732624053955,
+  "g_improved": 0.20407229661941528,
+  "factor_db": [
+   -4.5,
+   -3.4,
+   -0.5,
+   -0.1,
+   -0.3,
+   -0.9,
+   -0.7,
+   -0.3,
+   -1.0,
+   -1.4
+  ]
+ },
+ "block_switching": {
+  "window_sequence_near_attack": [
+   "long",
+   "long",
+   "start",
+   "short",
+   "stop",
+   "long",
+   "long"
+  ]
+ }
+}

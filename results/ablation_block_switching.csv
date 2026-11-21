@@ -1,0 +1,17 @@
+excerpt,rate,variant,odg,nmr_db
+castanets,64,full,-1.972,1.3
+castanets,96,full,-0.493,-4.96
+castanets,64,tighten only (F<=1),-1.972,1.3
+castanets,96,tighten only (F<=1),-0.493,-4.96
+castanets,64,relax only (F>=1),-1.918,1.74
+castanets,96,relax only (F>=1),-0.448,-4.75
+castanets,64,short windows = own energy,-2.319,1.61
+castanets,96,short windows = own energy,-0.633,-4.65
+speech,64,full,-1.29,3.61
+speech,96,full,-0.182,-3.49
+speech,64,tighten only (F<=1),-1.279,3.62
+speech,96,tighten only (F<=1),-0.182,-3.49
+speech,64,relax only (F>=1),-1.466,5.72
+speech,96,relax only (F>=1),-0.234,-1.03
+speech,64,short windows = own energy,-1.297,3.66
+speech,96,short windows = own energy,-0.182,-3.51

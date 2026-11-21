@@ -1,0 +1,14 @@
+# Source audio (EBU SQAM) and anything derived from it by the scripts
+audio excerpts/
+data/
+results/*/
+results/summary.json
+
+# Optional PEAQ build
+tools/peaq/gstpeaq/
+tools/peaq/peaq_basic
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store

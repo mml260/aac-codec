@@ -1,0 +1,22 @@
+source,model,target_kbps,actual_kbps,bytes,compression_ratio,encoded_file,decoded_wav
+castanets,original (prepared input),,768.000,,1:1,,castanets/castanets__original.wav
+speech,original (prepared input),,768.000,,1:1,,speech/speech__original.wav
+harpsichord,original (prepared input),,768.000,,1:1,,harpsichord/harpsichord__original.wav
+castanets,baseline,64,63.999,79999,12.00:1,castanets/castanets__baseline__target064k__actual63.999k.pacc,castanets/castanets__baseline__target064k__actual63.999k.wav
+castanets,baseline,96,96.000,120000,8.00:1,castanets/castanets__baseline__target096k__actual96.000k.pacc,castanets/castanets__baseline__target096k__actual96.000k.wav
+castanets,baseline,128,127.999,159999,6.00:1,castanets/castanets__baseline__target128k__actual127.999k.pacc,castanets/castanets__baseline__target128k__actual127.999k.wav
+castanets,improved,64,63.999,79999,12.00:1,castanets/castanets__improved__target064k__actual63.999k.pacc,castanets/castanets__improved__target064k__actual63.999k.wav
+castanets,improved,96,96.000,120000,8.00:1,castanets/castanets__improved__target096k__actual96.000k.pacc,castanets/castanets__improved__target096k__actual96.000k.wav
+castanets,improved,128,127.999,159999,6.00:1,castanets/castanets__improved__target128k__actual127.999k.pacc,castanets/castanets__improved__target128k__actual127.999k.wav
+speech,baseline,64,63.999,79999,12.00:1,speech/speech__baseline__target064k__actual63.999k.pacc,speech/speech__baseline__target064k__actual63.999k.wav
+speech,baseline,96,95.999,119999,8.00:1,speech/speech__baseline__target096k__actual95.999k.pacc,speech/speech__baseline__target096k__actual95.999k.wav
+speech,baseline,128,128.000,160000,6.00:1,speech/speech__baseline__target128k__actual128.000k.pacc,speech/speech__baseline__target128k__actual128.000k.wav
+speech,improved,64,63.999,79999,12.00:1,speech/speech__improved__target064k__actual63.999k.pacc,speech/speech__improved__target064k__actual63.999k.wav
+speech,improved,96,96.000,120000,8.00:1,speech/speech__improved__target096k__actual96.000k.pacc,speech/speech__improved__target096k__actual96.000k.wav
+speech,improved,128,127.999,159999,6.00:1,speech/speech__improved__target128k__actual127.999k.pacc,speech/speech__improved__target128k__actual127.999k.wav
+harpsichord,baseline,64,63.999,79999,12.00:1,harpsichord/harpsichord__baseline__target064k__actual63.999k.pacc,harpsichord/harpsichord__baseline__target064k__actual63.999k.wav
+harpsichord,baseline,96,96.000,120000,8.00:1,harpsichord/harpsichord__baseline__target096k__actual96.000k.pacc,harpsichord/harpsichord__baseline__target096k__actual96.000k.wav
+harpsichord,baseline,128,128.000,160000,6.00:1,harpsichord/harpsichord__baseline__target128k__actual128.000k.pacc,harpsichord/harpsichord__baseline__target128k__actual128.000k.wav
+harpsichord,improved,64,63.999,79999,12.00:1,harpsichord/harpsichord__improved__target064k__actual63.999k.pacc,harpsichord/harpsichord__improved__target064k__actual63.999k.wav
+harpsichord,improved,96,96.000,120000,8.00:1,harpsichord/harpsichord__improved__target096k__actual96.000k.pacc,harpsichord/harpsichord__improved__target096k__actual96.000k.wav
+harpsichord,improved,128,128.000,160000,6.00:1,harpsichord/harpsichord__improved__target128k__actual128.000k.pacc,harpsichord/harpsichord__improved__target128k__actual128.000k.wav
